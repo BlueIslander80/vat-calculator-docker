@@ -1,2 +1,2 @@
 image: simon1980abc/vat:<+pipeline.sequenceId>
-replicas: 1
+replicas: 4
